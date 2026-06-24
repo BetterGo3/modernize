@@ -1,6 +1,6 @@
 # modernize
 
-A small source rewriter for [Better](https://github.com/Better14) that uses `T!` result types and `!` error propagation.
+A small source rewriter for [Better](https://github.com/Better14/Better) that uses `T!` result types and `!` error propagation.
 
 It walks a directory of Go files and updates common error-handling patterns to the shorter fork syntax. Files are rewritten in place.
 
